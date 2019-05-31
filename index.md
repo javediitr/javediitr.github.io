@@ -9,7 +9,7 @@ I am a PhD student at [Machine Vision Lab](https://balarsgroup.github.io/), IIT 
     <td valign="middle"><b>Javed Imran</b> and Praveen Kumar. "Human action recognition using RGB-D sensor and deep convolutional neural networks." ICACCI (2016)     </td>
   </tr>
   <tr valign="middle">
-    <td><img src="https://i.ibb.co/QYYcdLj/0001.jpg" width="350"/></td>
+    <td><img src="https://i.ibb.co/nzjcMK2/Untitled.png" width="350"/></td>
     <td valign="middle">Pushpajit Khaire, Praveen Kumar and <b>Javed Imran</b>. "Combining CNN streams of RGB-D and skeletal data for human activity recognition." Pattern         Recognition Letters 115 (2018): 107-116.</td>
   </tr>
   <tr>
