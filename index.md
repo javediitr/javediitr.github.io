@@ -5,7 +5,19 @@ I am a PhD student at [Machine Vision Lab](https://balarsgroup.github.io/), IIT 
 
 <table>
   <tr>
-    <td><img src="https://i.ibb.co/QYYcdLj/0001.jpg" alt="Your image title" width="350"/></td>
+    <td><img src="https://i.ibb.co/QYYcdLj/0001.jpg" width="350"/></td>
+    <td>Javed Imran and Praveen Kumar. "Human action recognition using RGB-D sensor and deep convolutional neural networks." ICACCI (2016)     </td>
+  </tr>
+  <tr>
+    <td><img src="https://i.ibb.co/QYYcdLj/0001.jpg" width="350"/></td>
+    <td>Javed Imran and Balasubramanian Raman. "Combining CNN streams of RGB-D and skeletal data for human activity recognition." Pattern         Recognition Letters 115 (2018): 107-116.</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.ibb.co/bFDyz6w/multi-stream-cnn-1.jpg" width="350"/></td>
+    <td>Javed Imran and Balasubramanian Raman. "Multimodal Egocentric Activity Recognition Using Multi-stream CNN." ICVGIP (2018).</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.ibb.co/QYYcdLj/0001.jpg" width="350"/></td>
     <td>Javed Imran and Balasubramanian Raman. "Evaluating fusion of RGB-D and inertial sensors for multimodal human action recognition."         Journal of Ambient Intelligence and Humanized Computing (2019): 1-20.</td>
   </tr>
 </table>
