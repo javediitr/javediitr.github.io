@@ -5,11 +5,7 @@ I am a PhD student at [Machine Vision Lab](https://balarsgroup.github.io/), IIT 
 
 
 
-| ![Image](https://cdn-images-1.medium.com/max/800/1*M020yo66fYAYy6Lj0XJC6Q.png)  | Content Cell  |
+| ![Image](https://ibb.co/qjxqN7K)  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| ![Image](https://cdn-images-1.medium.com/max/800/1*M020yo66fYAYy6Lj0XJC6Q.png)  | Content Cell  |
-| Content Cell  | Content Cell  |
 
