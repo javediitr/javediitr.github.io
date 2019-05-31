@@ -9,4 +9,8 @@ I am a PhD student at [Machine Vision Lab](https://balarsgroup.github.io/), IIT 
 
 | Content Cell  | Content Cell  |
 
-
+<table>
+  <td>January</td>
+    <td>$100</td>
+  </tr>
+</table>
