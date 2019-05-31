@@ -14,7 +14,7 @@ I am a PhD student at [Machine Vision Lab](https://balarsgroup.github.io/), IIT 
   </tr>
   <tr>
     <td><img src="https://i.ibb.co/bFDyz6w/multi-stream-cnn-1.jpg" width="350"/></td>
-    <td style="vertical-align:middle;"><b>Javed Imran</b> and Balasubramanian Raman. "Multimodal Egocentric Activity Recognition Using Multi-stream CNN." ICVGIP (2018).</td>
+    <td style="vertical-align:middle;"><b>Javed Imran</b> and Balasubramanian Raman. "Multimodal egocentric activity recognition using multi-stream CNN." ICVGIP (2018).</td>
   </tr>
   <tr>
     <td><img src="https://i.ibb.co/QYYcdLj/0001.jpg" width="350"/></td>
