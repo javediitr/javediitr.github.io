@@ -1,4 +1,4 @@
-I am a PhD student at Machine Vision Lab, IIT Roorkee, where I work under [Prof. R.Balasubramanian](www.google.com) in the field of Computer Vision and Deep Learning. My research interest includes Multimodal Human Activity Recognition using RGB, depth, sensor and infrared data. 
+I am a PhD student at Machine Vision Lab, IIT Roorkee, where I work under [Prof. R.Balasubramanian](https://www.google.com) in the field of Computer Vision and Deep Learning. My research interest includes Multimodal Human Activity Recognition using RGB, depth, sensor and infrared data. 
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/javediitr/javediitr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
