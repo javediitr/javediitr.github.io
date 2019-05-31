@@ -4,7 +4,8 @@ I am a PhD student at [Machine Vision Lab](https://balarsgroup.github.io/), IIT 
 ## Publications
 
 <table>
-  <td><img src="https://i.ibb.co/QYYcdLj/0001.jpg" alt="Your image title" width="350"/></td>
-    <td>Javed Imran and Balasubramanian Raman. "Evaluating fusion of RGB-D and inertial sensors for multimodal human action recognition." Journal of Ambient Intelligence and Humanized Computing (2019): 1-20.</td>
+  <tr>
+    <td><img src="https://i.ibb.co/QYYcdLj/0001.jpg" alt="Your image title" width="350"/></td>
+    <td>Javed Imran and Balasubramanian Raman. "Evaluating fusion of RGB-D and inertial sensors for multimodal human action recognition."         Journal of Ambient Intelligence and Humanized Computing (2019): 1-20.</td>
   </tr>
 </table>
