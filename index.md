@@ -10,6 +10,6 @@ I am a PhD student at [Machine Vision Lab](https://balarsgroup.github.io/), IIT 
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| ![Image](https://cdn-images-1.medium.com/max/800/1*M020yo66fYAYy6Lj0XJC6Q.png)  | Content Cell  |
 | Content Cell  | Content Cell  |
 
