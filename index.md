@@ -3,6 +3,8 @@ I am a PhD student at [Machine Vision Lab](https://balarsgroup.github.io/), IIT 
 
 ## Publications
 
+![Image](https://github.com/javediitr/javediitr.github.io/blob/master/GoogLeNet3.png)
+
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
