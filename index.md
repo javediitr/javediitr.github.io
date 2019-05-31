@@ -3,7 +3,7 @@ I am a PhD student at [Machine Vision Lab](https://balarsgroup.github.io/), IIT 
 
 ## Publications
 
-![Image](https://i.ibb.co/JtC6vmV/aihc.jpg)
+<img src="https://i.ibb.co/QYYcdLj/0001.jpg" alt="Your image title" width="250"/>
 
 | ![Image](https://i.ibb.co/JtC6vmV/aihc.jpg)  | Content Cell  |
 | Content Cell  | Content Cell  |
