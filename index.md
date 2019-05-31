@@ -1,6 +1,7 @@
+## About
 I am a PhD student at [Machine Vision Lab](https://balarsgroup.github.io/), IIT Roorkee, where I work under [Prof. R.Balasubramanian](https://sites.google.com/site/balaiitr/) in the field of Computer Vision and Deep Learning. My research interest includes Multimodal Human Activity Recognition using RGB, depth, sensor and infrared data. 
-## Welcome to GitHub Pages
 
+## Publications
 You can use the [editor on GitHub](https://github.com/javediitr/javediitr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
