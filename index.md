@@ -1,4 +1,4 @@
-I am a PhD student at Image Processing and Computer Vision Lab, IIT Madras. I received my Bachelors Degree in Electrical Engineering from . Indian Institute of Technology Mandi, Himachal Pradesh My research lies at the intersection of Image Processing/Computer Vision and Deep Learning. My recent works have focused on restoration of images and videos suffering from blur, low-resolution, and haze and their utilization for scene segmentation and estimation of 3D geometry and motion. 
+I am a PhD student at Machine Vision Lab, IIT Roorkee, where I work under Prof. R.Balasubramanian in the field of Computer Vision and Deep Learning. My research interest includes Multimodal Human Activity Recognition using RGB, depth, sensor and infrared data. 
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/javediitr/javediitr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
