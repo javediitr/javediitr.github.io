@@ -34,8 +34,10 @@ I am a PhD student at [Machine Vision Lab](https://balarsgroup.github.io/), IIT 
     <td style="text-align: justify;"> Egocentric activity recognition (EAR) is an emerging area in the field of computer vision research. Motivated by the current success of Convolutional Neural Network (CNN), we propose a multistream CNN for multimodal egocentric activity recognition using
 visual (RGB videos) and sensor stream (accelerometer, gyroscope, etc.). In order to effectively capture the spatio-temporal information
 contained in RGB videos, two types of modalities are extracted from visual data: Approximate Dynamic Image (ADI) and Stacked Difference Image (SDI). These image-based representations are generated both at clip level as well as entire video level, and are then utilized to finetune a pretrained 2D-CNN called MobileNet, which is specifically designed for mobile vision applications. Similarly for sensor data, each training sample is divided into three segments, and a deep 1D-CNN network is trained (corresponding to each type of sensor stream) from scratch. During testing, the softmax scores of all the streams (visual + sensor) are combined by late fusion. The experiments performed on multimodal egocentric activity dataset demonstrates that our proposed approach can achieve state-of-the art results, outperforming the current best handcrafted and deep learning based techniques.
-      <br/>
-      <img src="https://i.ibb.co/tMDJvzN/visual-1.jpg" width="350"/>
+      <br/><br/>
+      <img src="https://i.ibb.co/tMDJvzN/visual-1.jpg" width="200"/>
+      <img src="https://i.ibb.co/tpHhdYC/sensor-1.jpg" width="200"/>
+      <img src="https://i.ibb.co/bFDyz6w/multi-stream-cnn-1.jpg" width="200"/>
     </td>
   </tr>
 </table>
