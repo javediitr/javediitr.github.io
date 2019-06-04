@@ -28,7 +28,7 @@ I am a PhD student at [Machine Vision Lab](https://balarsgroup.github.io/), IIT 
 
 <table style="width=90%;">
   <tr>
-    <td><strong>Multimodal egocentric activity recognition using multi-stream CNN</strong></td>
+    <td colspan="3"><strong>Multimodal egocentric activity recognition using multi-stream CNN</strong></td>
   </tr>
   <tr>
     <td style="text-align: justify;" colspan="3"> <i>Egocentric activity recognition (EAR) is an emerging area in the field of computer vision research. Motivated by the current success of Convolutional Neural Network (CNN), we propose a multistream CNN for multimodal egocentric activity recognition using
