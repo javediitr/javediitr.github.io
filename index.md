@@ -37,10 +37,10 @@ contained in RGB videos, two types of modalities are extracted from visual data:
     </td>
   </tr>    
   <tr>
-    <td style="valign=middle;">
-      <img src="https://i.ibb.co/tMDJvzN/visual-1.jpg" width="200"/>
-      <img src="https://i.ibb.co/tpHhdYC/sensor-1.jpg" width="200"/>
-      <img src="https://i.ibb.co/bFDyz6w/multi-stream-cnn-1.jpg" width="200"/>
+    <td style="valign=middle; align=center;">
+      <img src="https://i.ibb.co/tMDJvzN/visual-1.jpg" width="300"/>
+      <img src="https://i.ibb.co/tpHhdYC/sensor-1.jpg" width="300"/>
+      <img src="https://i.ibb.co/bFDyz6w/multi-stream-cnn-1.jpg" width="300"/>
     </td>
   </tr>
 </table>
