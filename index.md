@@ -40,7 +40,7 @@ contained in RGB videos, two types of modalities are extracted from visual data:
     <td style="valign=middle; align=center;" width="33%">
       <img src="https://i.ibb.co/tMDJvzN/visual-1.jpg" width="250"/>
       <br/>
-      <font size="6">Generation of ADIs and SDIs for visual stream. Each video sample is divided into 3 equal segments (without overlapping), and then four ADIs and four SDIs are generated (three at clip-level and one at entire video level).</font>
+      <font size="2">Generation of ADIs and SDIs for visual stream. Each video sample is divided into 3 equal segments (without overlapping), and then four ADIs and four SDIs are generated (three at clip-level and one at entire video level).</font>
     </td>
     <td style="valign=middle; align=center;" width="33%">
       <img src="https://i.ibb.co/tpHhdYC/sensor-1.jpg" width="250"/>
