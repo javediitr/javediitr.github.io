@@ -39,9 +39,13 @@ contained in RGB videos, two types of modalities are extracted from visual data:
   <tr>
     <td style="valign=middle; align=center;">
       <img src="https://i.ibb.co/tMDJvzN/visual-1.jpg" width="250"/>
+      <br/>
+      Generation of ADIs and SDIs for visual stream. Each video sample is divided into 3 equal segments (without overlapping), and then four ADIs and four SDIs are generated (three at clip-level and one at entire video level).
     </td>
     <td>
       <img src="https://i.ibb.co/tpHhdYC/sensor-1.jpg" width="250"/>
+      <br/>
+      Illustration of preprocessing done for sensor stream. Each input sample is divided three equal segments: Segment 1 (1-100), Segment 2 (26-125), Segment 3 (51-150).
     </td>
     <td>
       <img src="https://i.ibb.co/bFDyz6w/multi-stream-cnn-1.jpg" width="250"/>
