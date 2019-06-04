@@ -26,7 +26,7 @@ I am a PhD student at [Machine Vision Lab](https://balarsgroup.github.io/), IIT 
 
 <br/>
 
-<table>
+<table style="width=90%;">
   <tr>
     <td><strong>Multimodal egocentric activity recognition using multi-stream CNN</strong></td>
   </tr>
