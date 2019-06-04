@@ -12,7 +12,7 @@ I am a PhD student at [Machine Vision Lab](https://balarsgroup.github.io/), IIT 
   </tr>
 </table>
 
-</br></br></br>
+<br/><br/><br/>
 
 <table>
   <tr>
@@ -24,7 +24,7 @@ I am a PhD student at [Machine Vision Lab](https://balarsgroup.github.io/), IIT 
   </tr>
 </table>
 
-</br></br></br>
+<br/><br/><br/>
 
 <table>
   <tr>
@@ -38,7 +38,7 @@ contained in RGB videos, two types of modalities are extracted from visual data:
   </tr>
 </table>
 
-</br></br></br>
+<br/><br/><br/>
 
 <table>
   <tr>
