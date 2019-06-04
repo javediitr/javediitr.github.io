@@ -7,12 +7,12 @@ I am a PhD student at [Machine Vision Lab](https://balarsgroup.github.io/), IIT 
     <td><strong>Human action recognition using RGB-D sensor and deep convolutional neural networks</strong></td>
   </tr>
   <tr>
-    <td> In this work, we propose an approach to recognize human actions by the fusion of RGB and Depth data. Firstly, Motion History      Images (MHI) are generated from RGB videos which represent the temporal information about the action. Then the original depth data is   rotated in 3D point clouds and three Depth Motion Maps (DMM) are generated over the entire depth sequence corresponding to the front,   side and top projection views. A 4 Channel Deep Convolutional Neural Network is trained, where the first channel is for classifying     MHIs and the remaining three for the front, side and top view generated from depth data respectively. The proposed method is evaluated   on publically available UTD-MHAD dataset which contains both RGB and depth videos. Experimental results show that combining two         modalities gives better recognition accuracy than using each modality individually. 
+    <td style="text-align: justify;"> In this work, we propose an approach to recognize human actions by the fusion of RGB and Depth data. Firstly, Motion History      Images (MHI) are generated from RGB videos which represent the temporal information about the action. Then the original depth data is   rotated in 3D point clouds and three Depth Motion Maps (DMM) are generated over the entire depth sequence corresponding to the front,   side and top projection views. A 4 Channel Deep Convolutional Neural Network is trained, where the first channel is for classifying     MHIs and the remaining three for the front, side and top view generated from depth data respectively. The proposed method is evaluated   on publically available UTD-MHAD dataset which contains both RGB and depth videos. Experimental results show that combining two         modalities gives better recognition accuracy than using each modality individually. 
     </td>
   </tr>
 </table>
 
-<br/><br/><br/>
+<br/>
 
 <table>
   <tr>
@@ -24,7 +24,7 @@ I am a PhD student at [Machine Vision Lab](https://balarsgroup.github.io/), IIT 
   </tr>
 </table>
 
-<br/><br/><br/>
+<br/>
 
 <table>
   <tr>
@@ -38,7 +38,7 @@ contained in RGB videos, two types of modalities are extracted from visual data:
   </tr>
 </table>
 
-<br/><br/><br/>
+<br/>
 
 <table>
   <tr>
