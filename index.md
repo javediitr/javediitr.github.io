@@ -71,17 +71,17 @@ image-based representations. Second, for skeleton stream, we propose data augmen
     </td>
   </tr>    
   <tr>
-    <td style="valign=top; text-align: justify;;" width="43%">
+    <td style="valign=top; align: center; text-align: justify;;" width="43%">
       <img src="https://i.ibb.co/Fn9ZR7C/Figure5-1.jpg" width="300"/>
       <br/>
       <font size="2">Comparison of proposed SDFDI against other state-of-the-art image-based representations.</font>
     </td>
-    <td style="valign=top; text-align: justify;" width="23%">
+    <td style="valign=top; align: center; text-align: justify;" width="23%">
       <img src="https://i.ibb.co/GTNV8Mj/Figure7b-1.jpg" width="250"/>
       <br/>
       <font size="2">Data augmentation of inertial stream using signal jittering.</font>
     </td>
-    <td style="valign=top; text-align: middle;" width="34%">
+    <td style="valign=top; align: center; text-align: middle;" width="34%">
       <img src="https://i.ibb.co/QYYcdLj/0001.jpg" width="250"/>
       <br/>
       <font size="2">Proposed multimodal architecture.</font>
