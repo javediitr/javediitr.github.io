@@ -48,7 +48,7 @@ contained in RGB videos, two types of modalities are extracted from visual data:
       <font size="2">Illustration of preprocessing done for sensor stream. Each input sample is divided three equal segments: Segment 1 (1-100), Segment 2 (26-125), Segment 3 (51-150).</font>
     </td>
     <td style="valign=top; text-align: middle;" width="34%">
-      <img src="https://i.ibb.co/QYYcdLj/0001.jpg" width="250"/>
+      <img src="https://i.ibb.co/bFDyz6w/multi-stream-cnn-1.jpg" width="250"/>
       <br/>
       <font size="2">Proposed multi-stream CNN.</font>
     </td>
@@ -82,9 +82,9 @@ image-based representations. Second, for skeleton stream, we propose data augmen
       <font size="2">Data augmentation of inertial stream using signal jittering.</font>
     </td>
     <td style="valign=top; text-align: middle;" width="34%">
-      <img src="https://i.ibb.co/bFDyz6w/multi-stream-cnn-1.jpg" width="250"/>
+      <img src="https://i.ibb.co/QYYcdLj/0001.jpg" width="250"/>
       <br/>
-      <font size="2">Proposed three-stream architecture.</font>
+      <font size="2">Proposed multimodal architecture.</font>
     </td>
   </tr>
 </table>
