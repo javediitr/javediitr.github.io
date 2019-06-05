@@ -7,7 +7,7 @@ I am a PhD student at [Machine Vision Lab](https://balarsgroup.github.io/), IIT 
     <td><strong>Human action recognition using RGB-D sensor and deep convolutional neural networks</strong></td>
   </tr>
   <tr>
-    <td style="text-align: justify;"> In this work, we propose an approach to recognize human actions by the fusion of RGB and Depth data. Firstly, Motion History      Images (MHI) are generated from RGB videos which represent the temporal information about the action. Then the original depth data is   rotated in 3D point clouds and three Depth Motion Maps (DMM) are generated over the entire depth sequence corresponding to the front,   side and top projection views. A 4-Channel Deep Convolutional Neural Network is trained, where the first channel is for classifying     MHIs and the remaining three for the front, side and top view generated from depth data respectively. The proposed method is evaluated   on publically available UTD-MHAD dataset which contains both RGB and depth videos. Experimental results show that combining two         modalities gives better recognition accuracy than using each modality individually. 
+    <td style="text-align: justify;"> In this work, we propose an approach to recognize human actions by the fusion of RGB and Depth data. Firstly, Motion History Images (MHI) are generated from RGB videos which represent the temporal information about the action. Then the original depth data is rotated in 3D point clouds and three Depth Motion Maps (DMM) are generated over the entire depth sequence corresponding to the front, side and top projection views. A 4-Channel Deep Convolutional Neural Network is trained, where the first channel is for classifying MHIs and the remaining three for the front, side and top view generated from depth data respectively. The proposed method is evaluated on publically available UTD-MHAD dataset which contains both RGB and depth videos. Experimental results show that combining two modalities gives better recognition accuracy than using each modality individually. 
     </td>
   </tr>
 </table>
@@ -42,7 +42,7 @@ contained in RGB videos, two types of modalities are extracted from visual data:
       <br/>
       <font size="2">Generation of ADIs and SDIs for visual stream. Each video sample is divided into 3 equal segments (without overlapping), and then four ADIs and four SDIs are generated (three at clip-level and one at entire video level).</font>
     </td>
-    <td style="valign=middle; align=center;" width="33%">
+    <td style="valign=middle; align=justify;" width="33%">
       <img src="https://i.ibb.co/tpHhdYC/sensor-1.jpg" width="250"/>
       <br/>
       <font size="2">Illustration of preprocessing done for sensor stream. Each input sample is divided three equal segments: Segment 1 (1-100), Segment 2 (26-125), Segment 3 (51-150).</font>
