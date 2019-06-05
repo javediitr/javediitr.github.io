@@ -117,5 +117,5 @@ image-based representations. Second, for skeleton stream, we propose data augmen
   <li>NET 2014 qualified.</li>
   <li>M.Tech Gold Medalist (9.8 CGPA)</li>
   <li>Senator of Student Gymkhana for M.Tech batch</li>
-  <li>4 years of teaching experience as Computer Science faculty.</li>
+  <li>4 years of teaching experience as a Computer Science faculty.</li>
 </ol>
