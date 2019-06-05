@@ -48,7 +48,7 @@ contained in RGB videos, two types of modalities are extracted from visual data:
       <font size="2">Illustration of preprocessing done for sensor stream. Each input sample is divided three equal segments: Segment 1 (1-100), Segment 2 (26-125), Segment 3 (51-150).</font>
     </td>
     <td style="valign=top; text-align: middle;" width="34%">
-      <img src="https://i.ibb.co/bFDyz6w/multi-stream-cnn-1.jpg" width="250"/>
+      <img src="https://i.ibb.co/bFDyz6w/multi-stream-cnn-1.jpg" width="300"/>
       <br/>
       <font size="2">Proposed multi-stream CNN.</font>
     </td>
@@ -72,7 +72,7 @@ image-based representations. Second, for skeleton stream, we propose data augmen
   </tr>    
   <tr>
     <td style="valign=top; text-align: justify;;" width="43%">
-      <img src="https://i.ibb.co/Fn9ZR7C/Figure5-1.jpg" width="250"/>
+      <img src="https://i.ibb.co/Fn9ZR7C/Figure5-1.jpg" width="300"/>
       <br/>
       <font size="2">Comparison of proposed SDFDI against other state-of-the-art image-based representations.</font>
     </td>
