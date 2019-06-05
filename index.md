@@ -82,7 +82,7 @@ image-based representations. Second, for skeleton stream, we propose data augmen
       <font size="2">Data augmentation of inertial stream using signal jittering.</font>
     </td>
     <td style="valign=top; align: center; text-align: middle;" width="37%">
-      <img src="https://i.ibb.co/QYYcdLj/0001.jpg" width="270"/>
+      <img src="https://i.ibb.co/QYYcdLj/0001.jpg" width="290"/>
       <br/>
       <font size="2">Proposed multimodal architecture.</font>
     </td>
