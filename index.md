@@ -112,10 +112,10 @@ image-based representations. Second, for skeleton stream, we propose data augmen
 
 
 ## Awards and Scholarships
-<ul>
+<ol>
   <li>GATE 2014 and 2016 qualified.</li>
   <li>NET 2014 qualified.</li>
   <li>M.Tech Gold Medalist (9.8 CGPA)</li>
   <li>Senator of Student Gymkhana for M.Tech batch</li>
   <li>4 years of teaching experience as Computer Science faculty.</li>
-</ul>
+</ol>
