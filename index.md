@@ -71,7 +71,7 @@ image-based representations. Second, for skeleton stream, we propose data augmen
     </td>
   </tr>    
   <tr>
-    <td style="valign=top; align: center; text-align: justify;;" width="40%">
+    <td style="valign=top; align: center; text-align: justify;" width="40%">
       <img src="https://i.ibb.co/Fn9ZR7C/Figure5-1.jpg" width="330"/>
       <br/>
       <font size="2">Comparison of proposed SDFDI against other state-of-the-art image-based representations.</font>
@@ -85,15 +85,6 @@ image-based representations. Second, for skeleton stream, we propose data augmen
       <img src="https://i.ibb.co/QYYcdLj/0001.jpg" width="290"/>
       <br/>
       <font size="2">Proposed multimodal architecture.</font>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td><strong></strong></td>
-  </tr>
-  <tr>
-    <td style="text-align: justify;"> 
     </td>
   </tr>
 </table>
@@ -118,3 +109,13 @@ image-based representations. Second, for skeleton stream, we propose data augmen
     <td style="vertical-align:middle;"><b>Javed Imran</b> and Balasubramanian Raman. "Evaluating fusion of RGB-D and inertial sensors for multimodal human action recognition."         Journal of Ambient Intelligence and Humanized Computing (2019): 1-20.</td>
   </tr>
 </table>
+
+
+## Awards and Scholarships
+<ul>
+  <li>GATE 2014 and 2016 qualified.</li>
+  <li>NET 2014 qualified.</li>
+  <li>M.Tech Gold Medalist (9.8 CGPA)</li>
+  <li>Senator of Student Gymkhana for M.Tech batch</li>
+  <li>4 years of teaching experience as Computer Science faculty.</li>
+</ul>
