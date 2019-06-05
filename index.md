@@ -37,17 +37,17 @@ contained in RGB videos, two types of modalities are extracted from visual data:
     </td>
   </tr>    
   <tr>
-    <td style="valign=middle; align=justify;" width="33%">
+    <td style="valign=middle; text-align: justify;;" width="33%">
       <img src="https://i.ibb.co/tMDJvzN/visual-1.jpg" width="250"/>
       <br/>
       <font size="2">Generation of ADIs and SDIs for visual stream. Each video sample is divided into 3 equal segments (without overlapping), and then four ADIs and four SDIs are generated (three at clip-level and one at entire video level).</font>
     </td>
-    <td style="valign=middle; align=justify;" width="33%">
+    <td style="valign=middle; text-align: justify;" width="33%">
       <img src="https://i.ibb.co/tpHhdYC/sensor-1.jpg" width="250"/>
       <br/>
       <font size="2">Illustration of preprocessing done for sensor stream. Each input sample is divided three equal segments: Segment 1 (1-100), Segment 2 (26-125), Segment 3 (51-150).</font>
     </td>
-    <td style="valign=middle; align=center;" width="34%">
+    <td style="valign=middle; text-align: justify;" width="34%">
       <img src="https://i.ibb.co/bFDyz6w/multi-stream-cnn-1.jpg" width="250"/>
       <br/>
       <font size="2">Proposed multi-stream CNN.</font>
@@ -89,7 +89,7 @@ fusion architectures.
   </tr>
   <tr valign="middle">
     <td><img src="https://i.ibb.co/nzjcMK2/Untitled.png" width="350"/></td>
-    <td  style="vertical-align:middle;">Pushpajit Khaire, Praveen Kumar and <b>Javed Imran</b>. "Combining CNN streams of RGB-D and skeletal data for human activity recognition." Pattern         Recognition Letters 115 (2018): 107-116.</td>
+    <td  style="vertical-align:middle;">Pushpajit Khaire, Praveen Kumar and <b>Javed Imran</b>. "Combining CNN streams of RGB-D and skeletal data for human activity recognition." Pattern Recognition Letters 115 (2018): 107-116.</td>
   </tr>
   <tr>
     <td><img src="https://i.ibb.co/bFDyz6w/multi-stream-cnn-1.jpg" width="350"/></td>
