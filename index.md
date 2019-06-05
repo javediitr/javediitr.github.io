@@ -57,25 +57,43 @@ contained in RGB videos, two types of modalities are extracted from visual data:
 
 <br/>
 
-<table>
+
+
+
+
+<table style="width=90%; border: 1px solid black;">
   <tr>
-    <td><strong>Evaluating fusion of RGB-D and inertial sensors for multimodal human action recognition</strong></td>
+    <td colspan="3"><strong>Evaluating fusion of RGB-D and inertial sensors for multimodal human action recognition</strong></td>
   </tr>
   <tr>
-    <td style="text-align: justify;"> Fusion of multiple modalities from different sensors is an important area of research for multimodal human action recognition. In this paper, we conduct an in-depth study to investigate the effect of different parameters like input preprocessing,
-data augmentation, network architectures and model fusion so as to come up with a practical guideline for multimodal action
-recognition using deep learning paradigm. First, for RGB videos, we propose a novel image-based descriptor called stacked
-dense flow difference image (SDFDI), capable of capturing the spatio-temporal information present in a video sequence.
-A variety of deep 2D convolutional neural networks (CNN) are then trained to compare our SDFDI against state-of-the-art
-image-based representations. Second, for skeleton stream, we propose data augmentation technique based on 3D transformations so as to facilitate training a deep neural network on small datasets. We also propose a bidirectional gated recurrent
-unit (BiGRU) based recurrent neural network (RNN) to model skeleton data. Third, for inertial sensor data, we propose data
-augmentation based on jittering with white Gaussian noise along with deep a 1D-CNN network for action classification.
-The outputs of all these three heterogeneous networks (1D-CNN, 2D-CNN and BiGRU) are combined by a variety of model
-fusion approach based on score and feature fusion. Finally, in order to illustrate the efficacy of the proposed framework, we
-test our model on a publicly available UTD-MHAD dataset, and achieved an overall accuracy of 97.91%, which is about 4%
-higher than using each modality individually. We hope that the discussions and conclusions from this work will provide a
-deeper insight to the researchers in the related fields, and provide avenues for further studies for different multi-sensor based
-fusion architectures.
+    <td style="text-align: justify;" colspan="3"> <i>Fusion of multiple modalities from different sensors is an important area of research for multimodal human action recognition. In this paper, we conduct an in-depth study to investigate the effect of different parameters like input preprocessing, data augmentation, network architectures and model fusion so as to come up with a practical guideline for multimodal action recognition using deep learning paradigm. First, for RGB videos, we propose a novel image-based descriptor called stacked dense flow difference image (SDFDI), capable of capturing the spatio-temporal information present in a video sequence. A variety of deep 2D convolutional neural networks (CNN) are then trained to compare our SDFDI against state-of-the-art
+image-based representations. Second, for skeleton stream, we propose data augmentation technique based on 3D transformations so as to facilitate training a deep neural network on small datasets. We also propose a bidirectional gated recurrent unit (BiGRU) based recurrent neural network (RNN) to model skeleton data. Third, for inertial sensor data, we propose data augmentation based on jittering with white Gaussian noise along with deep a 1D-CNN network for action classification. The outputs of all these three heterogeneous networks (1D-CNN, 2D-CNN and BiGRU) are combined by a variety of model fusion approach based on score and feature fusion. Finally, in order to illustrate the efficacy of the proposed framework, we test our model on a publicly available UTD-MHAD dataset, and achieved an overall accuracy of 97.91%, which is about 4% higher than using each modality individually. We hope that the discussions and conclusions from this work will provide a deeper insight to the researchers in the related fields, and provide avenues for further studies for different multi-sensor based fusion architectures.</i>
+    </td>
+  </tr>    
+  <tr>
+    <td style="valign=top; text-align: justify;;" width="33%">
+      <img src="https://i.ibb.co/Fn9ZR7C/Figure5-1.jpg" width="250"/>
+      <br/>
+      <font size="2">Comparison of proposed SDFDI against other state-of-the-art image-based representations.</font>
+    </td>
+    <td style="valign=top; text-align: justify;" width="33%">
+      <img src="https://i.ibb.co/GTNV8Mj/Figure7b-1.jpg" width="250"/>
+      <br/>
+      <font size="2">Data augmentation of inertial stream using signal jittering.</font>
+    </td>
+    <td style="valign=top; text-align: middle;" width="34%">
+      <img src="https://i.ibb.co/bFDyz6w/multi-stream-cnn-1.jpg" width="250"/>
+      <br/>
+      <font size="2">Proposed three-stream architecture.</font>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><strong></strong></td>
+  </tr>
+  <tr>
+    <td style="text-align: justify;"> 
     </td>
   </tr>
 </table>
