@@ -109,7 +109,7 @@ image-based representations. Second, for skeleton stream, we propose data augmen
     <td style="vertical-align:middle;"><b>Javed Imran</b> and Balasubramanian Raman. "Evaluating fusion of RGB-D and inertial sensors for multimodal human action recognition."         Journal of Ambient Intelligence and Humanized Computing (2019): 1-20.</td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/QYYcdLj/0001.jpg" width="350"/></td>
+    <td><img src="https://i.ibb.co/TkvrCPF/arch-page-0001.jpg" width="350"/></td>
     <td style="vertical-align:middle;"><b>Javed Imran</b> and Balasubramanian Raman. "Deep motion templates and extreme learning machine for sign language recognition."         The Visual Computer (2019): 1-14.</td>
   </tr>
   <tr>
