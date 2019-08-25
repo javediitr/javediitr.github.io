@@ -103,12 +103,12 @@ image-based representations. Second, for skeleton stream, we propose data augmen
   </tr>    
   <tr>
     <td style="valign=top; align: center; text-align: justify;" width="50%">
-      <img src="https://i.ibb.co/mHzJghY/pdfresizer-com-pdf-crop-page-0001.jpg" width="300"/>
+      <img style="align: center;" src="https://i.ibb.co/mHzJghY/pdfresizer-com-pdf-crop-page-0001.jpg" width="300"/>
       <br/>
       <font size="2">Samples of MHI, DI and RGBMI.</font>
     </td>
     <td style="valign=top; align: center; text-align: justify;" width="50%">
-      <img src="https://i.ibb.co/TkvrCPF/arch-page-0001.jpg" width="300"/>
+      <img style="align: center;" src="https://i.ibb.co/TkvrCPF/arch-page-0001.jpg" width="300"/>
       <br/>
       <font size="2">Proposed three-stream architecture and fusion using KELM.</font>
     </td>
