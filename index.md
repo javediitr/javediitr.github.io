@@ -101,13 +101,13 @@ image-based representations. Second, for skeleton stream, we propose data augmen
     <td style="text-align: justify;" colspan="3"> <i>Sign Language is a visual language used by persons with hearing and speech impairment to communicate through fingerspellings and body gestures. This paper proposes a framework for automatic sign language recognition without the need of hand segmentation. The proposed method first generates three different types of motion templates: Motion History Image (MHI), Dynamic Image (DI) and our proposed RGB Motion Image (RGBMI). These motion templates are used to ne-tune three ConvNets trained on ImageNet dataset. Fine-tuning avoids learning all the parameters from scratch, leading to faster network convergence even with small number of training samples. For combining the output of three ConvNets, we propose a hybrid late fusion technique based on the combination of traditional feature fusion and score fusion. The features extracted from the last fully connected layer of trained ConvNets are used to train three Kernel based Extreme Learning Machines (KELM), and the nal class label is predicted by averaging their scores. The proposed approach is validated on a number of publicly available sign language as well as human action recognition datasets, and state-of-the-art results are achieved. Finally, an Indian Sign Language (ISL) dataset is also collected using a thermal camera. The experimental results obtained shows that our ConvNet based deep features along with proposed KELM based fusion is robust for any type of human motion recognition.</i>
     </td>
   </tr>    
-  <tr>
-    <td style="valign=top; align: center; text-align: justify;" width="50%">
+  <tr align="center">
+    <td align="center" style="valign=top; align: center; text-align: justify;" width="50%">
       <img align="middle" src="https://i.ibb.co/mHzJghY/pdfresizer-com-pdf-crop-page-0001.jpg" width="300"/>
       <br/>
       <font size="2">Samples of MHI, DI and RGBMI.</font>
     </td>
-    <td style="valign=top; align: center; text-align: justify;" width="50%">
+    <td align="center" style="valign=top; align: center; text-align: justify;" width="50%">
       <img align="middle" src="https://i.ibb.co/TkvrCPF/arch-page-0001.jpg" width="300"/>
       <br/>
       <font size="2">Proposed three-stream architecture and fusion using KELM.</font>
