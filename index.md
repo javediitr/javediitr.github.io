@@ -95,7 +95,7 @@ image-based representations. Second, for skeleton stream, we propose data augmen
 
 <table style="width=90%; border: 1px solid black;">
   <tr>
-    <td colspan="2"><strong>Evaluating fusion of RGB-D and inertial sensors for multimodal human action recognition</strong></td>
+    <td colspan="2"><strong>Deep motion templates and extreme learning machine for sign language recognition</strong></td>
   </tr>
   <tr>
     <td style="text-align: justify;" colspan="3"> <i>Sign Language is a visual language used by persons with hearing and speech impairment to communicate through fingerspellings and body gestures. This paper proposes a framework for automatic sign language recognition without the need of hand segmentation. The proposed method first generates three different types of motion templates: Motion History Image (MHI), Dynamic Image (DI) and our proposed RGB Motion Image (RGBMI). These motion templates are used to ne-tune three ConvNets trained on ImageNet dataset. Fine-tuning avoids learning all the parameters from scratch, leading to faster network convergence even with small number of training samples. For combining the output of three ConvNets, we propose a hybrid late fusion technique based on the combination of traditional feature fusion and score fusion. The features extracted from the last fully connected layer of trained ConvNets are used to train three Kernel based Extreme Learning Machines (KELM), and the nal class label is predicted by averaging their scores. The proposed approach is validated on a number of publicly available sign language as well as human action recognition datasets, and state-of-the-art results are achieved. Finally, an Indian Sign Language (ISL) dataset is also collected using a thermal camera. The experimental results obtained shows that our ConvNet based deep features along with proposed KELM based fusion is robust for any type of human motion recognition.</i>
@@ -103,12 +103,12 @@ image-based representations. Second, for skeleton stream, we propose data augmen
   </tr>    
   <tr>
     <td style="valign=top; align: center; text-align: justify;" width="50%">
-      <img src="https://i.ibb.co/mHzJghY/pdfresizer-com-pdf-crop-page-0001.jpg" width="330"/>
+      <img src="https://i.ibb.co/mHzJghY/pdfresizer-com-pdf-crop-page-0001.jpg" width="300"/>
       <br/>
       <font size="2">Samples of MHI, DI and RGBMI.</font>
     </td>
     <td style="valign=top; align: center; text-align: justify;" width="50%">
-      <img src="https://i.ibb.co/TkvrCPF/arch-page-0001.jpg" width="250"/>
+      <img src="https://i.ibb.co/TkvrCPF/arch-page-0001.jpg" width="300"/>
       <br/>
       <font size="2">Proposed three-stream architecture and fusion using KELM.</font>
     </td>
