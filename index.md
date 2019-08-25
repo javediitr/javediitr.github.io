@@ -129,26 +129,14 @@ image-based representations. Second, for skeleton stream, we propose data augmen
   </tr>    
   <tr align="center">
     <td align="center" style="valign=top; align: center; text-align: justify;" width="50%">
-      <img align="middle" src="https://i.ibb.co/z2yJ6dV/action-classes-1-page-0001.jpg" width="300"/>
-      <img align="middle" src="https://i.ibb.co/T86MXt1/action-classes-2-page-0001.jpg" width="300"/>
-      <img align="middle" src="https://i.ibb.co/Ss9yDsJ/action-classes-3-page-0001.jpg" width="300"/>
+      <img align="middle" src="https://i.ibb.co/z2yJ6dV/action-classes-1-page-0001.jpg" width="400"/>
+      <img align="middle" src="https://i.ibb.co/T86MXt1/action-classes-2-page-0001.jpg" width="400"/>
+      <img align="middle" src="https://i.ibb.co/Ss9yDsJ/action-classes-3-page-0001.jpg" width="400"/>
       <br/>
-      <font size="2">Samples of MHI, DI and RGBMI.</font>
+      <font size="2">Samples of IITR-IAR dataset.</font>
     </td>
     <td align="center" style="valign=top; align: center; text-align: justify;" width="50%">
-      <img align="middle" src="https://i.ibb.co/3spT23r/4-stream-arch-page-0001.jpg" width="300"/>
-      <br/>
-      <font size="2">Proposed four-stream architecture.</font>
-    </td>
-  </tr>
-  <tr align="center">
-    <td align="center" style="valign=top; align: center; text-align: justify;" width="50%">
-      <img align="middle" src="https://i.ibb.co/mHzJghY/pdfresizer-com-pdf-crop-page-0001.jpg" width="300"/>
-      <br/>
-      <font size="2">Samples of MHI, DI and RGBMI.</font>
-    </td>
-    <td align="center" style="valign=top; align: center; text-align: justify;" width="50%">
-      <img align="middle" src="https://i.ibb.co/3spT23r/4-stream-arch-page-0001.jpg" width="300"/>
+      <img align="middle" src="https://i.ibb.co/3spT23r/4-stream-arch-page-0001.jpg" width="400"/>
       <br/>
       <font size="2">Proposed four-stream architecture.</font>
     </td>
