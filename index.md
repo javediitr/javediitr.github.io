@@ -130,7 +130,9 @@ image-based representations. Second, for skeleton stream, we propose data augmen
   <tr align="center">
     <td align="center" style="valign=top; align: center; text-align: justify;" width="50%">
       <img align="middle" src="https://i.ibb.co/z2yJ6dV/action-classes-1-page-0001.jpg" width="400"/>
+      <br/>
       <img align="middle" src="https://i.ibb.co/T86MXt1/action-classes-2-page-0001.jpg" width="400"/>
+      <br/>
       <img align="middle" src="https://i.ibb.co/Ss9yDsJ/action-classes-3-page-0001.jpg" width="400"/>
       <br/>
       <font size="2">Samples of IITR-IAR dataset.</font>
