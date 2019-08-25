@@ -113,7 +113,7 @@ image-based representations. Second, for skeleton stream, we propose data augmen
     <td style="vertical-align:middle;"><b>Javed Imran</b> and Balasubramanian Raman. "Deep motion templates and extreme learning machine for sign language recognition."         The Visual Computer (2019): 1-14.</td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/QYYcdLj/0001.jpg" width="350"/></td>
+    <td><img src="https://i.ibb.co/xJ7NfxX/4-stream-arch-page-0001.jpg" width="350"/></td>
     <td style="vertical-align:middle;"><b>Javed Imran</b> and Balasubramanian Raman. "Deep Residual Infrared Action Recognition by Integrating Local and Global Spatio-Temporal Cues."         Infrared Physics & Technology (2019).</td>
   </tr>
 </table>
