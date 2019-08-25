@@ -115,6 +115,46 @@ image-based representations. Second, for skeleton stream, we propose data augmen
   </tr>
 </table>
 
+
+<br/>
+
+
+<table style="width=90%; border: 1px solid black;">
+  <tr>
+    <td colspan="2"><strong>Deep residual infrared action recognition by integrating local and global spatio-temporal cues</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align: justify;" colspan="3"> <i>Human action recognition (HAR) is an important area of research in the field of computer vision. Though a lot of efforts have been made in the past for HAR in visible spectrum, yet progress in infrared domain is still very limited. This is due to the fact that very few infrared action recognition datasets are publicly available, and that too with limited number of classes and training samples. To address this issue, we first construct a new dataset called IITR Infrared Action Recognition (IITR-IAR) dataset with 21 classes, each consisting of 70 samples (total 1470 videos). Then two types of modalities are extracted from each video: Stacked Dense Flow Difference Image (SDFDI) and our newly proposed Stacked Saliency Difference Image (SSDI). Second, we propose a novel four-stream deep framework built upon convolutional neural network (CNN) and recurrent neural network (RNN) models. Our CNN stream is based on deep residual architecture called ResNet, while RNN stream is based on bidirectional long short-term memory (BiLSTM) model. Third, to capture spatio-temporal information at global level, a single SDFDI and a single SSDI are generated using entire video, and then two CNN streams are trained. Similarly to capture spatio-temporal information at local level, a video is divided into eight equal segments, and eight SDFDIs and eight SSDIs are generated. These multiple SDFDIs and SSDIs are then used to train two CNN-BiLSTM streams. Finally, the output of all four streams are combined by late fusion to predict the actual class label. With this four-stream architecture in hand, we achieve state-of-the-art results (83.5%) on InfAR dataset. We also present the baseline result of 75.17% on our proposed IITR-IAR dataset, leaving an ample scope of research for remaining computer vision community to develop and apply more advanced deep learning techniques for infrared HAR.</i>
+    </td>
+  </tr>    
+  <tr align="center">
+    <td align="center" style="valign=top; align: center; text-align: justify;" width="50%">
+      <img align="middle" src="https://i.ibb.co/z2yJ6dV/action-classes-1-page-0001.jpg" width="300"/>
+      <img align="middle" src="https://i.ibb.co/T86MXt1/action-classes-2-page-0001.jpg" width="300"/>
+      <img align="middle" src="https://i.ibb.co/Ss9yDsJ/action-classes-3-page-0001.jpg" width="300"/>
+      <br/>
+      <font size="2">Samples of MHI, DI and RGBMI.</font>
+    </td>
+    <td align="center" style="valign=top; align: center; text-align: justify;" width="50%">
+      <img align="middle" src="https://i.ibb.co/3spT23r/4-stream-arch-page-0001.jpg" width="300"/>
+      <br/>
+      <font size="2">Proposed four-stream architecture.</font>
+    </td>
+  </tr>
+  <tr align="center">
+    <td align="center" style="valign=top; align: center; text-align: justify;" width="50%">
+      <img align="middle" src="https://i.ibb.co/mHzJghY/pdfresizer-com-pdf-crop-page-0001.jpg" width="300"/>
+      <br/>
+      <font size="2">Samples of MHI, DI and RGBMI.</font>
+    </td>
+    <td align="center" style="valign=top; align: center; text-align: justify;" width="50%">
+      <img align="middle" src="https://i.ibb.co/3spT23r/4-stream-arch-page-0001.jpg" width="300"/>
+      <br/>
+      <font size="2">Proposed four-stream architecture.</font>
+    </td>
+  </tr>
+</table>
+
 ## Publications
 
 <table>
