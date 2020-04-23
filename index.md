@@ -197,7 +197,7 @@ image-based representations. Second, for skeleton stream, we propose data augmen
   </tr>
   <tr>
     <td><img src="https://i.ibb.co/309b07G/sasa.jpg" width="350"/></td>
-    <td style="vertical-align:middle;">Rahul Kumar, Ridhi Arora, Vipul Bansal, Vinodh J Sahayasheela, Himanshu Buckchash, <b>Javed Imran</b>, Narayanan Narayanan, Ganesh N Pandian and Balasubramanian Raman. "Accurate prediction of covid-19 using chest x-ray images through deep feature learning model with smote and machine learning classifiers." medRxiv (2020).</td>
+    <td style="vertical-align:middle;">Rahul Kumar, Ridhi Arora, Vipul Bansal, Vinodh J Sahayasheela, Himanshu Buckchash, <b>Javed Imran</b>, Narayanan Narayanan, Ganesh N Pandian and Balasubramanian Raman. "Accurate prediction of COVID-19 using chest X-ray images through deep feature learning model with SMOTE and machine learning classifiers." medRxiv (2020).</td>
   </tr>
 </table>
 
