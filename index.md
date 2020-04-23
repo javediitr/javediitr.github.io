@@ -140,6 +140,30 @@ image-based representations. Second, for skeleton stream, we propose data augmen
   </tr>
 </table>
 
+
+<table style="width=90%; border: 1px solid black;">
+  <tr>
+    <td colspan="2"><strong>Deep residual infrared action recognition by integrating local and global spatio-temporal cues</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align: justify;" colspan="3"> <i>Human activity recognition is an extensively researched topic in the field of computer vision. However, some specific events like aggressive behavior or fights have been relatively less investigated. The automatic recognition of such tasks is particularly important in video surveillance scenarios like prisons, railway stations, psychiatric wards, as well as filtering violent contents on-line. In this paper, we attempt to make a violent activity recognition system using deep learning paradigm, which is not only more accurate, but also can be deployed in real-time video surveillance systems. First, multiple approximate dynamic images (ADI) are computed from the input video sequence. An efficient convolutional neural network (CNN) called MobileNet is then used to extract short-term spatio-temporal features from these ADIs. These features are stacked together and fed to a gated recurrent unit (GRU) network, which enables modeling the long-term dynamics of the video sequence. In addition, we also introduce a privacy protection scheme based on randomization of pixel values. The proposed framework is evaluated on three violence recognition benchmark datasets, and the results obtained shows the superiority of our method both in terms of accuracy and memory requirement than the current state-of-the-art.</i>
+    </td>
+  </tr>    
+  <tr align="center">
+    <td align="center" style="valign=top; align: center; text-align: justify;" width="50%">
+      <img align="middle" src="https://i.ibb.co/Y74ntTY/adi-comparison-page-001.jpg" width="400"/>
+      <font size="2">Samples of IITR-IAR dataset.</font>
+    </td>
+    <td align="center" style="valign=top; align: center; text-align: justify;" width="50%">
+      <img align="middle" src="https://i.ibb.co/cgM59zQ/arch-page-001.jpg" width="400"/>
+      <br/>
+      <font size="2">Proposed four-stream architecture.</font>
+    </td>
+  </tr>
+</table>
+
+
+
 ## Publications
 
 <table>
