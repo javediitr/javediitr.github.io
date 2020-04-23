@@ -152,12 +152,12 @@ image-based representations. Second, for skeleton stream, we propose data augmen
   <tr align="center">
     <td align="center" style="valign=top; align: center; text-align: justify;" width="50%">
       <img align="middle" src="https://i.ibb.co/Y74ntTY/adi-comparison-page-001.jpg" width="400"/>
-      <font size="2">Samples of IITR-IAR dataset.</font>
+      <font size="2">Samples of ADIs generated for high resolution (HR), low resolution (LR) and encrypted (ED) video inputs.</font>
     </td>
     <td align="center" style="valign=top; align: center; text-align: justify;" width="50%">
       <img align="middle" src="https://i.ibb.co/cgM59zQ/arch-page-001.jpg" width="400"/>
       <br/>
-      <font size="2">Proposed four-stream architecture.</font>
+      <font size="2">Proposed CNN-GRU architecture.</font>
     </td>
   </tr>
 </table>
