@@ -143,7 +143,7 @@ image-based representations. Second, for skeleton stream, we propose data augmen
 
 <table style="width=90%; border: 1px solid black;">
   <tr>
-    <td colspan="2"><strong>Deep residual infrared action recognition by integrating local and global spatio-temporal cues</strong></td>
+    <td colspan="2"><strong>Robust, efficient and privacy-preserving violent activity recognition in videos</strong></td>
   </tr>
   <tr>
     <td style="text-align: justify;" colspan="3"> <i>Human activity recognition is an extensively researched topic in the field of computer vision. However, some specific events like aggressive behavior or fights have been relatively less investigated. The automatic recognition of such tasks is particularly important in video surveillance scenarios like prisons, railway stations, psychiatric wards, as well as filtering violent contents on-line. In this paper, we attempt to make a violent activity recognition system using deep learning paradigm, which is not only more accurate, but also can be deployed in real-time video surveillance systems. First, multiple approximate dynamic images (ADI) are computed from the input video sequence. An efficient convolutional neural network (CNN) called MobileNet is then used to extract short-term spatio-temporal features from these ADIs. These features are stacked together and fed to a gated recurrent unit (GRU) network, which enables modeling the long-term dynamics of the video sequence. In addition, we also introduce a privacy protection scheme based on randomization of pixel values. The proposed framework is evaluated on three violence recognition benchmark datasets, and the results obtained shows the superiority of our method both in terms of accuracy and memory requirement than the current state-of-the-art.</i>
@@ -190,6 +190,14 @@ image-based representations. Second, for skeleton stream, we propose data augmen
   <tr>
     <td><img src="https://i.ibb.co/3spT23r/4-stream-arch-page-0001.jpg" width="350"/></td>
     <td style="vertical-align:middle;"><b>Javed Imran</b> and Balasubramanian Raman. "Deep residual infrared action recognition by integrating local and global spatio-temporal cues."         Infrared Physics & Technology (2019).</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.ibb.co/cgM59zQ/arch-page-001.jpg" width="350"/></td>
+    <td style="vertical-align:middle;"><b>Javed Imran</b> and Balasubramanian Raman. "Robust, efficient and privacy-preserving violent    activity recognition in videos ." ACM SAC (2020).</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.ibb.co/309b07G/sasa.jpg" width="350"/></td>
+    <td style="vertical-align:middle;">Rahul Kumar, Ridhi Arora, Vipul Bansal, Vinodh J Sahayasheela, Himanshu Buckchash, <b>Javed Imran</b>, Narayanan Narayanan, Ganesh N Pandian and Balasubramanian Raman. "Accurate prediction of covid-19 using chest x-ray images through deep feature learning model with smote and machine learning classifiers." medRxiv (2020).</td>
   </tr>
 </table>
 
