@@ -2,7 +2,7 @@
 I am a PhD student at [Machine Vision Lab](https://balarsgroup.github.io/), IIT Roorkee, where I work under [Prof. R. Balasubramanian](https://sites.google.com/site/balaiitr/) in the field of Computer Vision and Deep Learning. My research interest includes Multimodal Human Activity Recognition using RGB, depth, sensor and infrared data. 
 
 ## Research Projects
-<table>
+<table style="width=90%; border: 1px solid black;">
   <tr>
     <td><strong>Human action recognition using RGB-D sensor and deep convolutional neural networks</strong></td>
   </tr>
@@ -14,7 +14,7 @@ I am a PhD student at [Machine Vision Lab](https://balarsgroup.github.io/), IIT 
 
 <br/>
 
-<table>
+<table style="width=90%; border: 1px solid black;">
   <tr>
     <td><strong>Combining CNN streams of RGB-D and skeletal data for human activity recognition</strong></td>
   </tr>
