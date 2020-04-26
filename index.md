@@ -197,7 +197,7 @@ image-based representations. Second, for skeleton stream, we propose data augmen
     <td style="vertical-align:middle;">Amitesh Singh Rajput, Balasubramanian Raman and <b>Javed Imran</b>. "Privacy-preserving human  action recognition as a remote cloud service using RGB-D sensors and deep CNN."         Expert Systems with Applications (2020).</td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/WKD2pmN/image.jpg" width="350"/></td>
+    <td><img src="https://i.ibb.co/cgM59zQ/arch-page-001.jpg" width="350"/></td>
     <td style="vertical-align:middle;"><b>Javed Imran</b>, Balasubramanian Raman and Amitesh Singh Rajput. "Robust, efficient and privacy-preserving violent activity recognition in videos ." ACM SAC (2020).</td>
   </tr>
   <tr>
