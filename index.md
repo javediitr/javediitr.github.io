@@ -1,5 +1,5 @@
 ## About
-I am a PhD student at <a style="color:white; text-decoration:underline;"  target="_blank" rel="noopener noreferrer" href = "https://scholar.google.co.in/citations?user=osu7-JoAAAAJ&hl=en&oi=sra"> Google Scholar </a>  [Machine Vision Lab](https://balarsgroup.github.io/), IIT Roorkee, where I work under [Prof. R. Balasubramanian](https://sites.google.com/site/balaiitr/) in the field of Computer Vision and Deep Learning. My research interest includes Multimodal Human Activity Recognition using RGB, depth, sensor and infrared data. 
+I am a PhD student at <a style="text-decoration:underline;"  target="_blank" rel="noopener noreferrer" href = "https://balarsgroup.github.io/">Machine Vision Lab</a>  [Machine Vision Lab](https://balarsgroup.github.io/), IIT Roorkee, where I work under <a style="text-decoration:underline;"  target="_blank" rel="noopener noreferrer" href = "https://sites.google.com/site/balaiitr/">R. Balasubramanian</a> [Prof. R. Balasubramanian](https://sites.google.com/site/balaiitr/) in the field of Computer Vision and Deep Learning. My research interest includes Multimodal Human Activity Recognition using RGB, depth, sensor and infrared data. 
 
 
 
